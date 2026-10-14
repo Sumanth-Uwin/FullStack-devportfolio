@@ -31,13 +31,13 @@ export const siteConfig = {
   experience: [
     {
       company: "Kinaxis",
-      title: "Application Analyst Intern",
+      title: "Application Analyst",
       dateRange: "September 2025 - Present",
       bullets: [
-        "Built distributed Java backend services using Kafka and Hadoop, handling 1M+ transactions daily",
-        "Designed and deployed scalable REST APIs with optimized data retrieval, increasing backend throughput by 42% under peak load",
-        "Implemented asynchronous event-driven processing pipelines, reducing system latency by 30%",
-        "Automated AWS cloud components and CI/CD pipelines, accelerating release cycles by 35%",
+        "Designed and implemented scalable REST APIs and backend business logic in Java, optimizing data retrieval paths for large datasets and increasing API throughput under peak load.",
+        "Built and scaled a distributed Java-based backend service using Kafka and Hadoop to process high-volume data workloads, improving throughput, fault tolerance, and multi-region availability.",
+        "Built cloud-ready application components on AWS and automated CI/CD pipelines, reducing deployment friction and accelerating release cycles across cross-functional teams.",
+        "Developed robust automated unit, integration, and end-to-end tests using JUnit, Jest, and Playwright, increasing feature reliability and reducing production defects through test-driven development.",
       ],
     },
     {
